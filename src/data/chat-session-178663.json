@@ -1,0 +1,1273 @@
+[
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "😍🫶🏻",
+    "comments": [
+      {
+        "user": "Jim Doe",
+        "message": "Lorem ipsum"
+      }
+    ],
+    "reactions": [
+      {
+        "icon": "💚",
+        "user": "Lenny Erlesand"
+      },
+      {
+        "icon": "💚",
+        "user": "John Doe"
+      },
+      {
+        "icon": "😍",
+        "user": "Jane Doe"
+      }
+    ],
+    "from": {
+      "extensionKey": "extension-2147084",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Linda",
+        "lastName": "Heiskanen",
+        "email": "linda.heiskanen@telavox.fi",
+        "fixedNumber": "+358931546117",
+        "mobileNumber": "+358457200052",
+        "avatarResource": "/contacts/contact-2683937/avatar",
+        "department": "RevOps",
+        "keywords": "Finnish Princess, Big L, Indy",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-08-15T14:13:37.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+358931546117",
+          "countryCode": "FI",
+          "nationalFormat": "0931546117",
+          "prefix": "+358",
+          "type": "e164",
+          "prettyNationalNumber": "09 31546117"
+        },
+        "mobile": {
+          "number": "+358457200052",
+          "countryCode": "FI",
+          "nationalFormat": "0457200052",
+          "prefix": "+358",
+          "type": "e164",
+          "prettyNationalNumber": "045 7200052"
+        },
+        "key": "contact-2683937"
+      },
+      "key": "chatuser-772211"
+    },
+    "sent": "2023-08-23T19:51:06.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42827763"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "😎",
+    "from": {
+      "extensionKey": "extension-4780689",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Chase",
+        "lastName": "Riemer",
+        "email": "chase.riemer@telavox.com",
+        "fixedNumber": "+46406434155",
+        "mobileNumber": "+46793585502",
+        "avatarResource": "/contacts/contact-5563326/avatar",
+        "department": "RevOps",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-09T12:40:40.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406434155",
+          "countryCode": "SE",
+          "nationalFormat": "0406434155",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-643 41 55"
+        },
+        "mobile": {
+          "number": "+46793585502",
+          "countryCode": "SE",
+          "nationalFormat": "0793585502",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "079-358 55 02"
+        },
+        "key": "contact-5563326"
+      },
+      "key": "chatuser-2073106"
+    },
+    "sent": "2023-08-23T20:22:06.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42827896"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "🤩🥰🤗",
+    "from": {
+      "extensionKey": "extension-1404750",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Anders",
+        "lastName": "Bengtsson",
+        "email": "anders.bengtsson@telavox.se",
+        "fixedNumber": "+46812131409",
+        "mobileNumber": "+46761720020",
+        "avatarResource": "/contacts/contact-1928333/avatar",
+        "department": "Enterprise - Project Manager",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-01-23T13:53:54.000+0100",
+        "type": "bound",
+        "fixed": {
+          "number": "+46812131409",
+          "countryCode": "SE",
+          "nationalFormat": "0812131409",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "08-121 314 09"
+        },
+        "mobile": {
+          "number": "+46761720020",
+          "countryCode": "SE",
+          "nationalFormat": "0761720020",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-172 00 20"
+        },
+        "altTelephone1": {
+          "number": "+4620105537",
+          "countryCode": "SE",
+          "nationalFormat": "020105537",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "020-10 55 37"
+        },
+        "key": "contact-1928333"
+      },
+      "key": "chatuser-452809"
+    },
+    "sent": "2023-08-23T20:23:01.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42827899"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "🤩",
+    "from": {
+      "extensionKey": "extension-2539816",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Jere",
+        "lastName": "Brizic",
+        "email": "jere.brizic@telavox.se",
+        "fixedNumber": "+46406220034",
+        "mobileNumber": "+46762015762",
+        "avatarResource": "/contacts/contact-3065936/avatar",
+        "department": "RevOps",
+        "keywords": "Ingen golare, Var där när Majken dödade Axels rättigheter #neverforget, Novum<3, RevOps,  ohh hrvatski",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-02T12:47:09.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406220034",
+          "countryCode": "SE",
+          "nationalFormat": "0406220034",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-622 00 34"
+        },
+        "mobile": {
+          "number": "+46762015762",
+          "countryCode": "SE",
+          "nationalFormat": "0762015762",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-201 57 62"
+        },
+        "altTelephone1": {
+          "number": "+4620105529",
+          "countryCode": "SE",
+          "nationalFormat": "020105529",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "020-10 55 29"
+        },
+        "key": "contact-3065936"
+      },
+      "key": "chatuser-923637"
+    },
+    "sent": "2023-08-23T20:47:30.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42827994"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Cuteness overload 😍",
+    "from": {
+      "extensionKey": "extension-1635786",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Victoria",
+        "lastName": "Lindén",
+        "email": "victoria.linden@telavox.com",
+        "fixedNumber": "+46406200260",
+        "mobileNumber": "+46766774999",
+        "avatarResource": "/contacts/contact-2208242/avatar",
+        "department": "HR",
+        "keywords": "PDD, the Destroyer, the Victoria Lindén, prinsessanv@hotmail.com, Veronica, KOLLE",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2022-11-22T14:52:15.000+0100",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200260",
+          "countryCode": "SE",
+          "nationalFormat": "0406200260",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 02 60"
+        },
+        "mobile": {
+          "number": "+46766774999",
+          "countryCode": "SE",
+          "nationalFormat": "0766774999",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-677 49 99"
+        },
+        "key": "contact-2208242"
+      },
+      "key": "chatuser-553164"
+    },
+    "sent": "2023-08-23T20:48:38.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42828001"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "🤗",
+    "from": {
+      "extensionKey": "extension-3533994",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Tor",
+        "lastName": "Blomdell",
+        "email": "tor.blomdell@telavox.com",
+        "fixedNumber": "+46812207323",
+        "mobileNumber": "+46706252127",
+        "avatarResource": "/contacts/contact-4018781/avatar",
+        "department": "Product",
+        "keywords": "Product, Raketjanne, Torgny, TorBjörn, TorDrik, Sealevel",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-18T22:13:20.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46812207323",
+          "countryCode": "SE",
+          "nationalFormat": "0812207323",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "08-122 073 23"
+        },
+        "mobile": {
+          "number": "+46706252127",
+          "countryCode": "SE",
+          "nationalFormat": "0706252127",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-625 21 27"
+        },
+        "key": "contact-4018781"
+      },
+      "key": "chatuser-1427612"
+    },
+    "sent": "2023-08-23T20:51:16.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42828014"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "😍",
+    "from": {
+      "extensionKey": "extension-5043700",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Lenny",
+        "lastName": "Erlesand",
+        "email": "lenny.erlesand@telavox.com",
+        "fixedNumber": "+46406200119",
+        "mobileNumber": "+46766771464",
+        "department": "Engineering",
+        "keywords": "",
+        "editable": true,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-08-14T17:47:39.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200119",
+          "countryCode": "SE",
+          "nationalFormat": "0406200119",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 01 19"
+        },
+        "mobile": {
+          "number": "+46766771464",
+          "countryCode": "SE",
+          "nationalFormat": "0766771464",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-677 14 64"
+        },
+        "key": "contact-6027355"
+      },
+      "key": "chatuser-2201393"
+    },
+    "sent": "2023-08-23T20:57:46.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42828050"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "",
+    "from": {
+      "extensionKey": "extension-1267518",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Viktor",
+        "lastName": "Sandgren",
+        "email": "viktor.sandgren@telavox.com",
+        "fixedNumber": "+46406200103",
+        "mobileNumber": "+46700501848",
+        "avatarResource": "/contacts/contact-1728209/avatar",
+        "department": "Enterprise Sales",
+        "keywords": "Storkund Storkundsbearbetning woolpower",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-02-07T07:59:03.000+0100",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200103",
+          "countryCode": "SE",
+          "nationalFormat": "0406200103",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 01 03"
+        },
+        "mobile": {
+          "number": "+46700501848",
+          "countryCode": "SE",
+          "nationalFormat": "0700501848",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-050 18 48"
+        },
+        "key": "contact-1728209"
+      },
+      "key": "chatuser-386564"
+    },
+    "sent": "2023-08-24T03:27:04.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "attachment": {
+      "uuid": "487274b8-2de5-4d1c-9ea1-a2ea8a04cc20",
+      "fileName": "2023-08-24 03-27.png",
+      "fileSize": 121511,
+      "previewData": "/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAEsASwDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDFooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAClqeK3JAaTgdh60tyvygjtxSuOxWqe3h3fO4+UdPeiKAn5n4X09an3ZIAH0pNjSIfJDSSDoO1QEEHB61obcVVuUwdw79aEwaIKKe0bKit2NMqiQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKt21mZMNJ8q9vU0AV44nlbCLmr0VokXzN8zfoKsqqxrtQACmuahstIieomOOaexpgUyHA6etSMblnbA5qeOLYPU+tSRxBBwKfimBCRgVE67lI9aneo8UARRgFNrDI6EVWljMbY7djVvG1z70rxiVNp69jTTsJoz6KUqVbB4Ip0kZQ+x6GrIGUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRTgjFC2OBUltF5snP3R1ouBNaW27Ekg47D1rQpgpQazbuaJWFJqCRqkc8VXOXcL60gBIzKc/w1aVAowKFAUACnZpgGKRjS5pjGgBppuKdSUARSDDA05aSXoPrTk6UgIrmEON3Q+tNVRImxqtMMqRVZBtYimBTdCjFTTavXEW9MjrVKrTuQ1YSiiimIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooqSFd0gHagCyE2whT6c062UJHj1pW6UkZ4rM0JwacDUO6lDUAPc8VFGf3v4U8nIqLO1waQFrdRmog1LupgSZppNN3Um6gB1FJmkLAUgGy/dpydKjJ8xhjoKkBAoAfniq5+/T3kAHWokO5s0AWMZWqNzHhtw6HrV9elQzLuBX1pp2E0Z9FKeDikrQgKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAqxajkmq9WLc4H40pbDW5ZPSoidrexqXtTWXNZljd1G+o2BX6U+OGSTopApgPEgpGZSOtWI9Oz981ajsoV/hzQBlCQr/AI0olz0BNbP2eL+4KcII/wC4KAMXc56IakWOduiGtgRoOiinYoAy1s526kLUy6cv8bFqvUUAVPsUOMbaY1jEemaummmgZnSacD91iKh8swnawxWqahmjEikGkBUU0ySlAKsVPUUkvSgRQlGJDTKkm+/+FR1otiGFFFFMQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFTQnrUNPiPzUnsNbl5eRSGkjORQ9Zlk1rCJG3sOB0q8oA6VFEuxFX0FSigZIKcKYKeKYC0tJS0CFooooAKSikJoADTTRvXP3h+dBoGNNMNPNMNICpcLhww78GoZfu1bnXdGfbmqch+WgRTm+8KiqWbqKirRbEPcKKKKYgooooAKKKKACiiigAooooAKKKKACiiigAooooAKVThgaSigC5Eealx+8X61WjbgGrK8uh96zNC8tPFRrUgpDJBS5xULyhBgcsegpyWjSDdO557CmO3clDA9CKXNV5LVB9xmB+tRpM8T7JTkHoaRXJdaF3NGaYGzS5pkBJIEUsegqqu+5OWYqnYCm3bbmRPU5NPVtowKRrGOlyUWkGO+frTHje3GUbcnpQJKd5mRg9KegcrGiYEcil3BuhqtvWNmVgcdsU+NHlOR8i+ppEuDTJGrPmG1ivpWoLJGH+sbNVLu0eMbs7l9aZNk9EZc3UVFU1wMEVDVx2MnuFFFFMQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAEsR7VbhOWX61RQ4YVcgyGBxUSLjqX1oZ+wpFSYjKpge9QyLMpJ5H0qbmnI2WLcAzlm/hFWHlz3qlbMQGz1NPL5ouachI0lRSYdSDSE03NTc1USe2fKYPUcVP2rN8xo2JU4zTTPKw5c00zCpGzJ7g4uB9KN1VdxyCTmplNI2gtCXNG6m0UFWFIDMCe1SrJioaXNFxNXLSy0/wAzepVuQaphqerVVyHArLZie4IY4ReuO9OurCEp+6G1x0561LA2DK/vSqrO25qaZjUS5jEPBxSVPeLsupAPXNQVoYBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUVJCoeZFPQnmgB0dvKyhwjbfWtmxgVU81xk9hTGlHlMvTipIZP3K49Kzvdm8Y6E8ktV3fNI7VGTSbNoxsIetFJRUmgGmmnU00hoif71AQkZzSN96r0EO5M1SMKpRZMDrTkardxbkR+9URwaGVTkWBS0xDTxSNQooNNJpALmkZ8L701nxTAC7YFMUmkiaA5TH+1VxBVaIAHAq0nSqORu7uYl+c3kn+e1VqknbfPI3qxqOtUYsKKKKACiiigAooooAKKKKACiiigAooooAKKKKACpIG2zofeo6WgDceIEVDGxjYo34VNayedbK3fGD9aZMgNZM6ISsBNNzUO5l4PI9aUODUnSrEtFR7qXdQMkpjdKN1NduKAI+prUhO2MYHNULdNxzV+MZFNHPUeo+TDL05rLmiKscCtUpxVeRAxwabIi7MoK1ShqjmjMT+xpoJJwOTU2OpSTRKXpoDSHC/nT0tnbluParCwEDA4p2IlUS2I1toxyzFjQoClgowKl8k+tNZAgNMwcmxsPJqeVxHA7egNQ29Q6nOBCIweW/lTI6GVSUUVoZhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAX9Ln2SmJjw3T61oyrWApKsGHUcity3nW4hDd+4qJIuLIehxTmiiYdMH2olXa2afGoapLUmiu0OPutmm7JB/DWiI1pdqiixoqjMslh1BFIWrUIX0FRNDG/VRSsV7UjgGLfjqasQSDaKRUVV2jpUbwHOVOKZlJ3ZaMox1quz75QB2qPynPVqmiiCdqZIk0PmLiiKJYhwvPrUpqN2Cjk4pD5naxIGFLuqqjF/mU5X1qZSRTEPJqvMeKkZqrytwSe1AGa1zKshKvjmondpG3OcmkPJpK0sZXCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACpredoHyOh6ioaKALk1+z4Crj61ct5Nyg+tY9XLKTgoT05FS0UnqaytSk8VAj1KDmpLI3LZ4pqXEZ43jI61aQA5rNvbVg5lhznuBQIuiaP8Avil8+Md6xVuJBxkfiKf9ok9R+QqrCuaxuYx0BprXJxwn51ledL/fP4U0736kn60WC5fkvCOsgHsKpvO87hEzycc00QseAOavWdqIfnblz+lGiDVl23iEcAQdhSNxUgOEqJjUjGMap3TYhb34qy5rPvXyQg+ppoTKlFFFWQFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABTo3Mbhh2ptFAGrG4IBHQ1YVqyrabYdjdD09qvo1Q0WmXEfBokGeRUKtUivxikMrS20UpyRtf1FR/ZNp7EVcYA0zBHQ/nRcZALdfSniEdhUoJ9BSnPrincBqoqduakQdzTVAp2aQDmbtULNSs1Qu9AhsrhQSegrLdy7lj3qW4m8xtqn5R+tQVaRDYUUUUxBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFWYLnb8r9PWq1FAGsj5GQcipFeshJXj+6ePSrKXY/iBHvUWLTNINR1qtHOrdGBqdWzSGOxS4oBpc0AFNY4oLYqpc3IjGBy3pQA+WZUGWOKoTXDScDhf51EzM7ZY5NNq0iGwooopiCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAUEg5HBqxFeMvDDd71WooC5ppexkcnH1pTeRAferLopcpXMXJr0sMRjHuaqEknJOTSUU7CuFFFFAgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/9k="
+    },
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42829152"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "😍😍😍",
+    "from": {
+      "extensionKey": "extension-2797052",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Axel",
+        "lastName": "Zetterman",
+        "email": "axel.zetterman@telavox.com",
+        "fixedNumber": "+46406200089",
+        "mobileNumber": "+46708128614",
+        "avatarResource": "/contacts/contact-3323991/avatar",
+        "department": "Sales Development",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2022-09-28T14:38:32.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200089",
+          "countryCode": "SE",
+          "nationalFormat": "0406200089",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 00 89"
+        },
+        "mobile": {
+          "number": "+46708128614",
+          "countryCode": "SE",
+          "nationalFormat": "0708128614",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-812 86 14"
+        },
+        "key": "contact-3323991"
+      },
+      "key": "chatuser-1016845"
+    },
+    "sent": "2023-08-24T07:43:43.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42830244"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Those hats demand respect! 😁👌",
+    "from": {
+      "extensionKey": "extension-1493649",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Roland",
+        "lastName": "David",
+        "email": "roland.david@telavox.se",
+        "fixedNumber": "+46406200248",
+        "mobileNumber": "+46768833783",
+        "avatarResource": "/contacts/contact-2034941/avatar",
+        "department": "Customer Tech & Economy (SE)",
+        "keywords": "Rolle, Speak the Hungarian Rapper, Hroudland, Rolando",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-06-12T15:07:13.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200248",
+          "countryCode": "SE",
+          "nationalFormat": "0406200248",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 02 48"
+        },
+        "mobile": {
+          "number": "+46768833783",
+          "countryCode": "SE",
+          "nationalFormat": "0768833783",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-883 37 83"
+        },
+        "altTelephone1": {
+          "number": "+4620105525",
+          "countryCode": "SE",
+          "nationalFormat": "020105525",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "020-10 55 25"
+        },
+        "key": "contact-2034941"
+      },
+      "key": "chatuser-490449"
+    },
+    "sent": "2023-08-24T08:16:07.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42831377"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "😍",
+    "from": {
+      "extensionKey": "extension-4093682",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Pierre",
+        "lastName": "Kuster",
+        "email": "pierre.kuster@telavox.se",
+        "fixedNumber": "+46812131610",
+        "mobileNumber": "+46724038084",
+        "avatarResource": "/contacts/contact-4643975/avatar",
+        "department": "Partner Support",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-04-21T14:00:47.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46812131610",
+          "countryCode": "SE",
+          "nationalFormat": "0812131610",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "08-121 316 10"
+        },
+        "mobile": {
+          "number": "+46724038084",
+          "countryCode": "SE",
+          "nationalFormat": "0724038084",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "072-403 80 84"
+        },
+        "key": "contact-4643975"
+      },
+      "key": "chatuser-1715734"
+    },
+    "sent": "2023-08-24T08:16:51.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42831401"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "🔥",
+    "from": {
+      "extensionKey": "extension-3387173",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Mory",
+        "lastName": "Melendez Sanchez",
+        "email": "mory.melendez@telavox.se",
+        "fixedNumber": "+46406220037",
+        "mobileNumber": "+46768972810",
+        "avatarResource": "/contacts/contact-3867044/avatar",
+        "department": "Customer Tech & Economy (SE)",
+        "keywords": "Mört, Allt sitter i huvudet, Don Laucha",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-03-28T22:11:23.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406220037",
+          "countryCode": "SE",
+          "nationalFormat": "0406220037",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-622 00 37"
+        },
+        "mobile": {
+          "number": "+46768972810",
+          "countryCode": "SE",
+          "nationalFormat": "0768972810",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "076-897 28 10"
+        },
+        "key": "contact-3867044"
+      },
+      "key": "chatuser-1327159"
+    },
+    "sent": "2023-08-24T08:30:52.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42831975"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Hi,\nIs there anyone here with a french mobile who's currently in France, to whom I could try and send a text message?\nIf so, please PM me. :)",
+    "from": {
+      "extensionKey": "extension-236320",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Björn",
+        "lastName": "Löhbern",
+        "email": "bjorn.lohbern@telavox.se",
+        "fixedNumber": "+46406200860",
+        "mobileNumber": "+46709856097",
+        "avatarResource": "/contacts/contact-1244859/avatar",
+        "department": "Engineering Operations",
+        "keywords": "Attans bananer, Bonjour Lombard, Bjoran, Bj *click* Rn, Bågen Skifs Beer Lötheim Ostkroken El Oso Grande LeadTech Desktop LeadTech Operator, FOR THE CUBS!! Klisterskifs, Maverick, Tiger, Honey Badger, Björn bäver Simple, not superfun, relevant, gimp, Bear, Jugoslavic bear, Florp, \"Lille herr Björn\", Tenacious B, Björnligan, Magasin, Sitta ner i fem minuter och bara andas, Bomben, Öppen bar, hot shot, kaffe karlsson, 'glömde du ditt snus?\", \"nu när jag ändå har dig på tråden,vad tycker du om vår tjänster?\"",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-03T15:55:19.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200860",
+          "countryCode": "SE",
+          "nationalFormat": "0406200860",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 08 60"
+        },
+        "mobile": {
+          "number": "+46709856097",
+          "countryCode": "SE",
+          "nationalFormat": "0709856097",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-985 60 97"
+        },
+        "key": "contact-1244859"
+      },
+      "key": "chatuser-33867"
+    },
+    "sent": "2023-08-24T15:48:51.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42860505"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "yes @Björn Löhbern",
+    "from": {
+      "extensionKey": "extension-3861170",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Marion",
+        "lastName": "Esprit",
+        "email": "marion.esprit@telavox.com",
+        "fixedNumber": "+33173438007",
+        "mobileNumber": "+33748905757",
+        "avatarResource": "/contacts/contact-4355625/avatar",
+        "department": "ALLOcloud",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-25T10:39:07.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+33173438007",
+          "countryCode": "FR",
+          "nationalFormat": "0173438007",
+          "prefix": "+33",
+          "type": "e164",
+          "prettyNationalNumber": "01 73 43 80 07"
+        },
+        "mobile": {
+          "number": "+33748905757",
+          "countryCode": "FR",
+          "nationalFormat": "0748905757",
+          "prefix": "+33",
+          "type": "e164",
+          "prettyNationalNumber": "07 48 90 57 57"
+        },
+        "key": "contact-4355625"
+      },
+      "key": "chatuser-1593441"
+    },
+    "sent": "2023-08-24T15:59:37.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [
+      {
+        "startPosition": 4,
+        "length": 14,
+        "stylingReference": {
+          "stylingType": "chatuser",
+          "chatUser": {
+            "key": "chatuser-33867"
+          }
+        }
+      }
+    ],
+    "type": "message",
+    "key": "chatmessage-42861292"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Brödernas har barnmeny",
+    "from": {
+      "extensionKey": "extension-3868167",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Timor",
+        "lastName": "Mangal",
+        "email": "timor.mangal@telavox.com",
+        "fixedNumber": "+46406200284",
+        "mobileNumber": "+46737350046",
+        "avatarResource": "/contacts/contact-4362555/avatar",
+        "department": "Finance",
+        "keywords": "hardustartatomdatorn? Corporate IT",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-03-01T09:40:50.000+0100",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200284",
+          "countryCode": "SE",
+          "nationalFormat": "0406200284",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 02 84"
+        },
+        "mobile": {
+          "number": "+46737350046",
+          "countryCode": "SE",
+          "nationalFormat": "0737350046",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "073-735 00 46"
+        },
+        "key": "contact-4362555"
+      },
+      "key": "chatuser-1598511"
+    },
+    "sent": "2023-08-24T16:27:25.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42862607"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "oopsi...",
+    "from": {
+      "extensionKey": "extension-3868167",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Timor",
+        "lastName": "Mangal",
+        "email": "timor.mangal@telavox.com",
+        "fixedNumber": "+46406200284",
+        "mobileNumber": "+46737350046",
+        "avatarResource": "/contacts/contact-4362555/avatar",
+        "department": "Finance",
+        "keywords": "hardustartatomdatorn? Corporate IT",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-03-01T09:40:50.000+0100",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200284",
+          "countryCode": "SE",
+          "nationalFormat": "0406200284",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 02 84"
+        },
+        "mobile": {
+          "number": "+46737350046",
+          "countryCode": "SE",
+          "nationalFormat": "0737350046",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "073-735 00 46"
+        },
+        "key": "contact-4362555"
+      },
+      "key": "chatuser-1598511"
+    },
+    "sent": "2023-08-24T16:27:32.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42862613"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "🥳",
+    "from": {
+      "extensionKey": "extension-39298",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Filip",
+        "lastName": "Kirsten",
+        "email": "filip.kirsten@telavox.se",
+        "fixedNumber": "+46101959003",
+        "mobileNumber": "+46708860986",
+        "avatarResource": "/contacts/contact-329550/avatar",
+        "department": "Enterprise Sales",
+        "keywords": "Senior Cloud Advisor Solution Selling Kreatören jogging padel hearthstone",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2022-10-07T10:46:52.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46101959003",
+          "countryCode": "SE",
+          "nationalFormat": "0101959003",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "010-195 90 03"
+        },
+        "mobile": {
+          "number": "+46708860986",
+          "countryCode": "SE",
+          "nationalFormat": "0708860986",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-886 09 86"
+        },
+        "key": "contact-329550"
+      },
+      "key": "chatuser-54"
+    },
+    "sent": "2023-08-24T16:27:59.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42862628"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Lol",
+    "from": {
+      "extensionKey": "extension-1875307",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Ulrika",
+        "lastName": "Söderström",
+        "email": "ulrika.soderstrom@telavox.se",
+        "fixedNumber": "+46406200273",
+        "mobileNumber": "+46739197616",
+        "avatarResource": "/contacts/contact-2430240/avatar",
+        "department": "HR",
+        "keywords": "Oväntat professionell office officer",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-11T19:48:43.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200273",
+          "countryCode": "SE",
+          "nationalFormat": "0406200273",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 02 73"
+        },
+        "mobile": {
+          "number": "+46739197616",
+          "countryCode": "SE",
+          "nationalFormat": "0739197616",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "073-919 76 16"
+        },
+        "key": "contact-2430240"
+      },
+      "key": "chatuser-654142"
+    },
+    "sent": "2023-08-24T16:34:44.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42862916"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Telavoxers in Malmö: Does anyone have a charger for a Hövding (the airbag bicycle helmet) that I can borrow? A regular USB-C doesn't seem to work. 🤷🏼‍♂️",
+    "from": {
+      "extensionKey": "extension-2413881",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Oscar",
+        "lastName": "Hjelmstedt",
+        "email": "oscar.hjelmstedt@telavox.com",
+        "fixedNumber": "+46406200558",
+        "mobileNumber": "+46709424841",
+        "avatarResource": "/contacts/contact-2953659/avatar",
+        "department": "Marketing",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-05T11:46:31.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200558",
+          "countryCode": "SE",
+          "nationalFormat": "0406200558",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 05 58"
+        },
+        "mobile": {
+          "number": "+46709424841",
+          "countryCode": "SE",
+          "nationalFormat": "0709424841",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-942 48 41"
+        },
+        "key": "contact-2953659"
+      },
+      "key": "chatuser-892587"
+    },
+    "sent": "2023-08-29T11:29:06.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42966461"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "I'm guessing you need it today? Have mine at home. I will note that when I can't find the original I use a USB-C from another brand. It does work for me if I attach the cable to a power supply. It does not work if I only attach the cable to let's say a computer or a screen that has USB-C. Worth a try if you have a power supply handy :)",
+    "from": {
+      "extensionKey": "extension-4954028",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Per",
+        "lastName": "Falk",
+        "email": "per.falk@telavox.com",
+        "fixedNumber": "+46406368206",
+        "mobileNumber": "+46790066133",
+        "avatarResource": "/contacts/contact-5780485/avatar",
+        "department": "Customer Success - Service Provider",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-29T10:15:13.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406368206",
+          "countryCode": "SE",
+          "nationalFormat": "0406368206",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-636 82 06"
+        },
+        "mobile": {
+          "number": "+46790066133",
+          "countryCode": "SE",
+          "nationalFormat": "0790066133",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "079-006 61 33"
+        },
+        "key": "contact-5780485"
+      },
+      "key": "chatuser-2148872"
+    },
+    "sent": "2023-08-29T11:44:38.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42967562"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "I tried with my Mac charger, which is a USB-C, but it didn't work, unfortunately. :/ Thanks anyway!",
+    "from": {
+      "extensionKey": "extension-2413881",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Oscar",
+        "lastName": "Hjelmstedt",
+        "email": "oscar.hjelmstedt@telavox.com",
+        "fixedNumber": "+46406200558",
+        "mobileNumber": "+46709424841",
+        "avatarResource": "/contacts/contact-2953659/avatar",
+        "department": "Marketing",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-05T11:46:31.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200558",
+          "countryCode": "SE",
+          "nationalFormat": "0406200558",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 05 58"
+        },
+        "mobile": {
+          "number": "+46709424841",
+          "countryCode": "SE",
+          "nationalFormat": "0709424841",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-942 48 41"
+        },
+        "key": "contact-2953659"
+      },
+      "key": "chatuser-892587"
+    },
+    "sent": "2023-08-29T13:02:33.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42971495"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "Sorry to hear. Just out of interest, is the cable separate or attached to the power supply?",
+    "from": {
+      "extensionKey": "extension-4954028",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Per",
+        "lastName": "Falk",
+        "email": "per.falk@telavox.com",
+        "fixedNumber": "+46406368206",
+        "mobileNumber": "+46790066133",
+        "avatarResource": "/contacts/contact-5780485/avatar",
+        "department": "Customer Success - Service Provider",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-29T10:15:13.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406368206",
+          "countryCode": "SE",
+          "nationalFormat": "0406368206",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-636 82 06"
+        },
+        "mobile": {
+          "number": "+46790066133",
+          "countryCode": "SE",
+          "nationalFormat": "0790066133",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "079-006 61 33"
+        },
+        "key": "contact-5780485"
+      },
+      "key": "chatuser-2148872"
+    },
+    "sent": "2023-08-29T13:12:44.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42972196"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "It's a separate USB-C connected to a Mac charger/adapter. But it's solved now: I'm borrowing another cable thanks to @Emelie Bengtsson. 🙏",
+    "from": {
+      "extensionKey": "extension-2413881",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Oscar",
+        "lastName": "Hjelmstedt",
+        "email": "oscar.hjelmstedt@telavox.com",
+        "fixedNumber": "+46406200558",
+        "mobileNumber": "+46709424841",
+        "avatarResource": "/contacts/contact-2953659/avatar",
+        "department": "Marketing",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-07-05T11:46:31.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200558",
+          "countryCode": "SE",
+          "nationalFormat": "0406200558",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 05 58"
+        },
+        "mobile": {
+          "number": "+46709424841",
+          "countryCode": "SE",
+          "nationalFormat": "0709424841",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "070-942 48 41"
+        },
+        "key": "contact-2953659"
+      },
+      "key": "chatuser-892587"
+    },
+    "sent": "2023-08-29T13:16:23.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [
+      {
+        "startPosition": 117,
+        "length": 17,
+        "stylingReference": {
+          "stylingType": "chatuser",
+          "chatUser": {
+            "key": "chatuser-1261276"
+          }
+        }
+      }
+    ],
+    "type": "message",
+    "key": "chatmessage-42972447"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "❤️",
+    "from": {
+      "extensionKey": "extension-4954028",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Per",
+        "lastName": "Falk",
+        "email": "per.falk@telavox.com",
+        "fixedNumber": "+46406368206",
+        "mobileNumber": "+46790066133",
+        "avatarResource": "/contacts/contact-5780485/avatar",
+        "department": "Customer Success - Service Provider",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-05-29T10:15:13.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406368206",
+          "countryCode": "SE",
+          "nationalFormat": "0406368206",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-636 82 06"
+        },
+        "mobile": {
+          "number": "+46790066133",
+          "countryCode": "SE",
+          "nationalFormat": "0790066133",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "079-006 61 33"
+        },
+        "key": "contact-5780485"
+      },
+      "key": "chatuser-2148872"
+    },
+    "sent": "2023-08-29T13:26:43.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42973138"
+  },
+  {
+    "DTOSubtype": "ChatMessageDTO",
+    "message": "@Malmö! If you are still at the office - there is pizza and beer in the kitchen at the pink zone from our Future path AW🤩 ",
+    "from": {
+      "extensionKey": "extension-1976473",
+      "removed": false,
+      "contact": {
+        "_discriminator": "ContactDTO",
+        "firstName": "Hanna",
+        "lastName": "Lindkvist",
+        "email": "hanna.lindkvist@telavox.com",
+        "fixedNumber": "+46406200015",
+        "mobileNumber": "+46728896241",
+        "avatarResource": "/contacts/contact-2517429/avatar",
+        "department": "HR",
+        "keywords": "",
+        "editable": false,
+        "imported": false,
+        "deletable": false,
+        "lastUpdate": "2023-06-02T10:41:56.000+0200",
+        "type": "bound",
+        "fixed": {
+          "number": "+46406200015",
+          "countryCode": "SE",
+          "nationalFormat": "0406200015",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "040-620 00 15"
+        },
+        "mobile": {
+          "number": "+46728896241",
+          "countryCode": "SE",
+          "nationalFormat": "0728896241",
+          "prefix": "+46",
+          "type": "e164",
+          "prettyNationalNumber": "072-889 62 41"
+        },
+        "key": "contact-2517429"
+      },
+      "key": "chatuser-704130"
+    },
+    "sent": "2023-08-29T17:51:36.000+0200",
+    "read": true,
+    "alsoAsSMS": false,
+    "stylings": [],
+    "type": "message",
+    "key": "chatmessage-42988256"
+  }
+]

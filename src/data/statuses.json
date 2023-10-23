@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Available until 17:00", "online": true },
+  { "id": 2, "name": "Lunch", "online": false },
+  { "id": 3, "name": "Meeting", "online": false },
+  { "id": 4, "name": "Left for the day", "online": false }
+]

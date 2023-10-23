@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --color-text-base: #000000; /* Jet Black */
+    --color-primary: #2dc659; /* Grass Green */
+    --color-secondary: #fd6234; /* Happy Red */
+    --color-tertiary: #2c3551; /* Ink Spot */
+
+    --color-text-dark: #ffffff; /* All Clear */
+  }
+}
